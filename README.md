@@ -482,3 +482,14 @@ There is no management stuff for checking the content. Users can decide which to
 * [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
 
 * [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
